@@ -1,6 +1,6 @@
 # Ex. No.  2- SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
-## DATE: 
+## DATE: 15-05-2026
 
 ## AIM:
 ###   To determine & simulate the displacement & velocity analysis for the given slider crank mechanism. 
@@ -44,6 +44,11 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
+### mech anlyser graph
+<img width="1044" height="652" alt="image" src="https://github.com/user-attachments/assets/977791e3-02bf-41ea-82ad-76436b5298c5" />
+
+### VAD, IC and SFA module
+<img width="1042" height="654" alt="image" src="https://github.com/user-attachments/assets/c2808b75-0de8-463d-a1ae-6e2624e93074" />
 
 
 
